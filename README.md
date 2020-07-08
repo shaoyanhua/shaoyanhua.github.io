@@ -1,2 +1,0 @@
-# shaoyanhua.github.io
-QuantumBiologyAndLogic
